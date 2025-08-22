@@ -1,4 +1,18 @@
 <!DOCTYPE HTMl>
+<html lang="en">
+    <html>
+        <head>
+            <title>practice</title>
+
+        </head>
+        <body>
+            <ol>
+                <li>hard work</li>
+                <li>consistency</li>
+                <li>goog coders flow with time</li>
+            </ol>
+        </body>
+    </html>
 
 
 
